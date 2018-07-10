@@ -1,3 +1,13 @@
+Welcome back!
+
+int a=20;
+int b=30;
+intc = a+b;
+System.out.println(c);
+
+
+
+
 Welecom to GitHub
 System.out.println("Hello World")
 This is a new update to repo1
